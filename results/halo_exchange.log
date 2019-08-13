@@ -1,0 +1,54 @@
+3D halo exchange benchmark: sub-domain mesh 512 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 13.5779 seconds
+3D halo exchange benchmark: sub-domain mesh 1536 x 1536 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 14.4101 seconds
+3D halo exchange benchmark: sub-domain mesh 1536 x 1536 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 12.1568 seconds
+3D halo exchange benchmark: sub-domain mesh 256 x 512 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 13.5565 seconds
+3D halo exchange benchmark: sub-domain mesh 512 x 3072 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 16.849 seconds
+3D halo exchange benchmark: sub-domain mesh 512 x 3072 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 12.0456 seconds
+3D halo exchange benchmark: sub-domain mesh 256 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 13.1091 seconds
+3D halo exchange benchmark: sub-domain mesh 384 x 3072 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 16.3348 seconds
+3D halo exchange benchmark: sub-domain mesh 384 x 3072 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 12.0045 seconds
+3D halo exchange benchmark: sub-domain mesh 1024 x 64 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 12.4395 seconds
+3D halo exchange benchmark: sub-domain mesh 1536 x 512 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 14.5634 seconds
+3D halo exchange benchmark: sub-domain mesh 1536 x 512 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 9.90089 seconds
+3D halo exchange benchmark: sub-domain mesh 768 x 64 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 10.979 seconds
+3D halo exchange benchmark: sub-domain mesh 1536 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 13.0408 seconds
+3D halo exchange benchmark: sub-domain mesh 1536 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 8.92711 seconds
+3D halo exchange benchmark: sub-domain mesh 512 x 64 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 9.7496 seconds
+3D halo exchange benchmark: sub-domain mesh 1024 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 11.0424 seconds
+3D halo exchange benchmark: sub-domain mesh 1024 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 7.03746 seconds
+3D halo exchange benchmark: sub-domain mesh 384 x 64 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 9.35707 seconds
+3D halo exchange benchmark: sub-domain mesh 768 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 9.86976 seconds
+3D halo exchange benchmark: sub-domain mesh 768 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 6.02975 seconds
+3D halo exchange benchmark: sub-domain mesh 256 x 64 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 8.27818 seconds
+3D halo exchange benchmark: sub-domain mesh 512 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 8.89299 seconds
+3D halo exchange benchmark: sub-domain mesh 512 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 5.13845 seconds
+3D halo exchange benchmark: sub-domain mesh 384 x 32 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 7.81917 seconds
+3D halo exchange benchmark: sub-domain mesh 384 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 8.01355 seconds
+3D halo exchange benchmark: sub-domain mesh 384 x 384 x 3072, ds = 0.000325521, dt = 1.3082e-08
+Time elapsed: 4.56046 seconds

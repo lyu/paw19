@@ -1,0 +1,39 @@
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      2.910           2.910           2.910
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      2.988           2.994           2.991
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      3.113           3.125           3.117
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      3.307           3.323           3.311
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      3.596           3.611           3.600
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      4.412           4.430           4.417
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      5.269           5.285           5.272
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      6.641           6.655           6.645
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      7.915           7.932           7.920
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                      9.201           9.214           9.204
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                     10.793          10.804          10.797
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                     11.847          11.863          11.853
+Benchmarking AMO ping-pong, time unit microseconds:
+Size (bytes)   Min iter time   Max iter time   Avg iter time
+4                     13.157          13.205          13.166

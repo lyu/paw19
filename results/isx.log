@@ -1,0 +1,279 @@
+Starting benchmark on 48 PEs, 1 threads/PE, sorting 4800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 3.75616
+Average all-to-all time per iteration (ms) : 0.782533
+Starting benchmark on 4 PEs, 12 threads/PE, sorting 4800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 12.0392
+Average all-to-all time per iteration (ms) : 2.50817
+Starting benchmark on 4 PEs, 12 threads/PE, sorting 4800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 3.94789
+Average all-to-all time per iteration (ms) : 0.822477
+Starting benchmark on 72 PEs, 1 threads/PE, sorting 7200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 7.94252
+Average all-to-all time per iteration (ms) : 1.10313
+Starting benchmark on 6 PEs, 12 threads/PE, sorting 7200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 26.267
+Average all-to-all time per iteration (ms) : 3.64819
+Starting benchmark on 6 PEs, 12 threads/PE, sorting 7200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 8.23945
+Average all-to-all time per iteration (ms) : 1.14437
+Starting benchmark on 96 PEs, 1 threads/PE, sorting 9600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 13.294
+Average all-to-all time per iteration (ms) : 1.38479
+Starting benchmark on 8 PEs, 12 threads/PE, sorting 9600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 45.0496
+Average all-to-all time per iteration (ms) : 4.69267
+Starting benchmark on 8 PEs, 12 threads/PE, sorting 9600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 13.2852
+Average all-to-all time per iteration (ms) : 1.38388
+Starting benchmark on 120 PEs, 1 threads/PE, sorting 12000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 18.7992
+Average all-to-all time per iteration (ms) : 1.5666
+Starting benchmark on 10 PEs, 12 threads/PE, sorting 12000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 65.3862
+Average all-to-all time per iteration (ms) : 5.44885
+Starting benchmark on 10 PEs, 12 threads/PE, sorting 12000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 17.4431
+Average all-to-all time per iteration (ms) : 1.45359
+Starting benchmark on 144 PEs, 1 threads/PE, sorting 14400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 25.0838
+Average all-to-all time per iteration (ms) : 1.74193
+Starting benchmark on 12 PEs, 12 threads/PE, sorting 14400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 89.0621
+Average all-to-all time per iteration (ms) : 6.18487
+Starting benchmark on 12 PEs, 12 threads/PE, sorting 14400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 22.7753
+Average all-to-all time per iteration (ms) : 1.58161
+Starting benchmark on 168 PEs, 1 threads/PE, sorting 16800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 31.6953
+Average all-to-all time per iteration (ms) : 1.88662
+Starting benchmark on 14 PEs, 12 threads/PE, sorting 16800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 112.16
+Average all-to-all time per iteration (ms) : 6.67618
+Starting benchmark on 14 PEs, 12 threads/PE, sorting 16800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 27.5515
+Average all-to-all time per iteration (ms) : 1.63997
+Starting benchmark on 192 PEs, 1 threads/PE, sorting 19200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 38.9838
+Average all-to-all time per iteration (ms) : 2.0304
+Starting benchmark on 16 PEs, 12 threads/PE, sorting 19200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 147.531
+Average all-to-all time per iteration (ms) : 7.68389
+Starting benchmark on 16 PEs, 12 threads/PE, sorting 19200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 33.0475
+Average all-to-all time per iteration (ms) : 1.72123
+Starting benchmark on 216 PEs, 1 threads/PE, sorting 21600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 47.1143
+Average all-to-all time per iteration (ms) : 2.18122
+Starting benchmark on 18 PEs, 12 threads/PE, sorting 21600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 178.705
+Average all-to-all time per iteration (ms) : 8.27339
+Starting benchmark on 18 PEs, 12 threads/PE, sorting 21600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 38.5751
+Average all-to-all time per iteration (ms) : 1.78588
+Starting benchmark on 240 PEs, 1 threads/PE, sorting 24000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 55.7386
+Average all-to-all time per iteration (ms) : 2.32244
+Starting benchmark on 20 PEs, 12 threads/PE, sorting 24000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 214.607
+Average all-to-all time per iteration (ms) : 8.94197
+Starting benchmark on 20 PEs, 12 threads/PE, sorting 24000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 44.1145
+Average all-to-all time per iteration (ms) : 1.8381
+Starting benchmark on 264 PEs, 1 threads/PE, sorting 26400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 64.8956
+Average all-to-all time per iteration (ms) : 2.45817
+Starting benchmark on 22 PEs, 12 threads/PE, sorting 26400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 257.293
+Average all-to-all time per iteration (ms) : 9.74595
+Starting benchmark on 22 PEs, 12 threads/PE, sorting 26400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 49.1948
+Average all-to-all time per iteration (ms) : 1.86344
+Starting benchmark on 288 PEs, 1 threads/PE, sorting 28800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 75.2523
+Average all-to-all time per iteration (ms) : 2.61293
+Starting benchmark on 24 PEs, 12 threads/PE, sorting 28800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 307.28
+Average all-to-all time per iteration (ms) : 10.6694
+Starting benchmark on 24 PEs, 12 threads/PE, sorting 28800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 54.9741
+Average all-to-all time per iteration (ms) : 1.90882
+Starting benchmark on 312 PEs, 1 threads/PE, sorting 31200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 85.9672
+Average all-to-all time per iteration (ms) : 2.75536
+Starting benchmark on 26 PEs, 12 threads/PE, sorting 31200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 356.204
+Average all-to-all time per iteration (ms) : 11.4168
+Starting benchmark on 26 PEs, 12 threads/PE, sorting 31200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 60.8808
+Average all-to-all time per iteration (ms) : 1.95131
+Starting benchmark on 336 PEs, 1 threads/PE, sorting 33600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 96.9718
+Average all-to-all time per iteration (ms) : 2.88607
+Starting benchmark on 28 PEs, 12 threads/PE, sorting 33600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 400.669
+Average all-to-all time per iteration (ms) : 11.9247
+Starting benchmark on 28 PEs, 12 threads/PE, sorting 33600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 67.2717
+Average all-to-all time per iteration (ms) : 2.00213
+Starting benchmark on 360 PEs, 1 threads/PE, sorting 36000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 108.841
+Average all-to-all time per iteration (ms) : 3.02337
+Starting benchmark on 30 PEs, 12 threads/PE, sorting 36000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 458.793
+Average all-to-all time per iteration (ms) : 12.7443
+Starting benchmark on 30 PEs, 12 threads/PE, sorting 36000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 73.6633
+Average all-to-all time per iteration (ms) : 2.0462
+Starting benchmark on 384 PEs, 1 threads/PE, sorting 38400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 121.51
+Average all-to-all time per iteration (ms) : 3.16431
+Starting benchmark on 32 PEs, 12 threads/PE, sorting 38400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 517.575
+Average all-to-all time per iteration (ms) : 13.4785
+Starting benchmark on 32 PEs, 12 threads/PE, sorting 38400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 80.579
+Average all-to-all time per iteration (ms) : 2.09841
+Starting benchmark on 408 PEs, 1 threads/PE, sorting 40800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 134.421
+Average all-to-all time per iteration (ms) : 3.29464
+Starting benchmark on 34 PEs, 12 threads/PE, sorting 40800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 583.286
+Average all-to-all time per iteration (ms) : 14.2962
+Starting benchmark on 34 PEs, 12 threads/PE, sorting 40800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 87.5506
+Average all-to-all time per iteration (ms) : 2.14585
+Starting benchmark on 432 PEs, 1 threads/PE, sorting 43200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 148.913
+Average all-to-all time per iteration (ms) : 3.44705
+Starting benchmark on 36 PEs, 12 threads/PE, sorting 43200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 652.386
+Average all-to-all time per iteration (ms) : 15.1015
+Starting benchmark on 36 PEs, 12 threads/PE, sorting 43200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 95.3631
+Average all-to-all time per iteration (ms) : 2.20748
+Starting benchmark on 456 PEs, 1 threads/PE, sorting 45600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 163.404
+Average all-to-all time per iteration (ms) : 3.58341
+Starting benchmark on 38 PEs, 12 threads/PE, sorting 45600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 721.842
+Average all-to-all time per iteration (ms) : 15.8299
+Starting benchmark on 38 PEs, 12 threads/PE, sorting 45600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 103.142
+Average all-to-all time per iteration (ms) : 2.26188
+Starting benchmark on 480 PEs, 1 threads/PE, sorting 48000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 181.082
+Average all-to-all time per iteration (ms) : 3.77253
+Starting benchmark on 40 PEs, 12 threads/PE, sorting 48000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 794.166
+Average all-to-all time per iteration (ms) : 16.5451
+Starting benchmark on 40 PEs, 12 threads/PE, sorting 48000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 115.605
+Average all-to-all time per iteration (ms) : 2.40844
+Starting benchmark on 504 PEs, 1 threads/PE, sorting 50400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 201.976
+Average all-to-all time per iteration (ms) : 4.00747
+Starting benchmark on 42 PEs, 12 threads/PE, sorting 50400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 885.417
+Average all-to-all time per iteration (ms) : 17.5678
+Starting benchmark on 42 PEs, 12 threads/PE, sorting 50400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 129.769
+Average all-to-all time per iteration (ms) : 2.57478
+Starting benchmark on 528 PEs, 1 threads/PE, sorting 52800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 221.138
+Average all-to-all time per iteration (ms) : 4.18822
+Starting benchmark on 44 PEs, 12 threads/PE, sorting 52800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 973.349
+Average all-to-all time per iteration (ms) : 18.4346
+Starting benchmark on 44 PEs, 12 threads/PE, sorting 52800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 143.006
+Average all-to-all time per iteration (ms) : 2.70844
+Starting benchmark on 552 PEs, 1 threads/PE, sorting 55200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 244.167
+Average all-to-all time per iteration (ms) : 4.42332
+Starting benchmark on 46 PEs, 12 threads/PE, sorting 55200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1065.97
+Average all-to-all time per iteration (ms) : 19.311
+Starting benchmark on 46 PEs, 12 threads/PE, sorting 55200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 157.662
+Average all-to-all time per iteration (ms) : 2.8562
+Starting benchmark on 576 PEs, 1 threads/PE, sorting 57600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 265.199
+Average all-to-all time per iteration (ms) : 4.60414
+Starting benchmark on 48 PEs, 12 threads/PE, sorting 57600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1163.41
+Average all-to-all time per iteration (ms) : 20.1982
+Starting benchmark on 48 PEs, 12 threads/PE, sorting 57600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 178.044
+Average all-to-all time per iteration (ms) : 3.09105
+Starting benchmark on 600 PEs, 1 threads/PE, sorting 60000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 343.102
+Average all-to-all time per iteration (ms) : 5.71836
+Starting benchmark on 50 PEs, 12 threads/PE, sorting 60000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1268.28
+Average all-to-all time per iteration (ms) : 21.138
+Starting benchmark on 50 PEs, 12 threads/PE, sorting 60000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 212.95
+Average all-to-all time per iteration (ms) : 3.54917
+Starting benchmark on 624 PEs, 1 threads/PE, sorting 62400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 385.419
+Average all-to-all time per iteration (ms) : 6.17659
+Starting benchmark on 52 PEs, 12 threads/PE, sorting 62400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1360.86
+Average all-to-all time per iteration (ms) : 21.8086
+Starting benchmark on 52 PEs, 12 threads/PE, sorting 62400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 248.905
+Average all-to-all time per iteration (ms) : 3.98887
+Starting benchmark on 648 PEs, 1 threads/PE, sorting 64800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 415.942
+Average all-to-all time per iteration (ms) : 6.41886
+Starting benchmark on 54 PEs, 12 threads/PE, sorting 64800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1430.93
+Average all-to-all time per iteration (ms) : 22.0823
+Starting benchmark on 54 PEs, 12 threads/PE, sorting 64800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 274.401
+Average all-to-all time per iteration (ms) : 4.23458
+Starting benchmark on 672 PEs, 1 threads/PE, sorting 67200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 440.376
+Average all-to-all time per iteration (ms) : 6.55321
+Starting benchmark on 56 PEs, 12 threads/PE, sorting 67200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1514.81
+Average all-to-all time per iteration (ms) : 22.5419
+Starting benchmark on 56 PEs, 12 threads/PE, sorting 67200000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 297.43
+Average all-to-all time per iteration (ms) : 4.42604
+Starting benchmark on 696 PEs, 1 threads/PE, sorting 69600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 493.971
+Average all-to-all time per iteration (ms) : 7.09729
+Starting benchmark on 58 PEs, 12 threads/PE, sorting 69600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1672.86
+Average all-to-all time per iteration (ms) : 24.0353
+Starting benchmark on 58 PEs, 12 threads/PE, sorting 69600000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 345.833
+Average all-to-all time per iteration (ms) : 4.96887
+Starting benchmark on 720 PEs, 1 threads/PE, sorting 72000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 557.228
+Average all-to-all time per iteration (ms) : 7.73928
+Starting benchmark on 60 PEs, 12 threads/PE, sorting 72000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1787.14
+Average all-to-all time per iteration (ms) : 24.8214
+Starting benchmark on 60 PEs, 12 threads/PE, sorting 72000000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 392.506
+Average all-to-all time per iteration (ms) : 5.45148
+Starting benchmark on 744 PEs, 1 threads/PE, sorting 74400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 612.29
+Average all-to-all time per iteration (ms) : 8.2297
+Starting benchmark on 62 PEs, 12 threads/PE, sorting 74400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 1978.05
+Average all-to-all time per iteration (ms) : 26.5867
+Starting benchmark on 62 PEs, 12 threads/PE, sorting 74400000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 451.541
+Average all-to-all time per iteration (ms) : 6.0691
+Starting benchmark on 768 PEs, 1 threads/PE, sorting 76800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 647.249
+Average all-to-all time per iteration (ms) : 8.42772
+Starting benchmark on 64 PEs, 12 threads/PE, sorting 76800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 2129.48
+Average all-to-all time per iteration (ms) : 27.7276
+Starting benchmark on 64 PEs, 12 threads/PE, sorting 76800000 keys for 100 iteration(s)
+Cumulative all-to-all time (sec)           : 484.472
+Average all-to-all time per iteration (ms) : 6.30823

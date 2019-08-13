@@ -1,0 +1,39 @@
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 0.776           0.776           0.776
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 1.331           1.383           1.357
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 2.085           2.107           2.092
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 3.156           3.172           3.162
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 4.184           4.190           4.189
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 5.444           5.449           5.448
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 6.472           6.485           6.479
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 7.131           7.156           7.144
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 8.870           8.913           8.898
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 8.916           9.290           9.171
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                10.431          10.646          10.535
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                11.961          11.965          11.964
+Benchmarking unidirectional atomic post, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                12.596          12.604          12.598

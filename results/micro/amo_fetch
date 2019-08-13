@@ -1,0 +1,39 @@
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 1.982           1.982           1.982
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 3.172           3.762           3.467
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 5.661           8.448           7.607
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                10.034          11.891          10.943
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                14.693          16.945          15.839
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                17.870          21.801          20.121
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                25.274          26.836          26.234
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                 7.553          26.993          23.278
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                15.794          31.023          24.691
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                21.941          37.378          28.864
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                27.557          47.369          36.445
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                37.307          58.002          45.689
+Benchmarking unidirectional atomic fetch, time unit microseconds:
+N Iterations        Min time        Max time        Avg time
+100000                39.552          64.178          52.256

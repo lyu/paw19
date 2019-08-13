@@ -1,0 +1,558 @@
+Starting benchmark on 48 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1672.15
+Average thread runtime (sec)          : 34.8365
+Total work rate (points/sec)          : 2.93944e+07
+Average thread work rate (points/sec) : 612384
+Starting benchmark on 4 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2397.99
+Average thread runtime (sec)          : 49.9582
+Total work rate (points/sec)          : 2.04971e+07
+Average thread work rate (points/sec) : 427024
+Starting benchmark on 4 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1661.18
+Average thread runtime (sec)          : 34.6079
+Total work rate (points/sec)          : 2.95886e+07
+Average thread work rate (points/sec) : 616429
+Starting benchmark on 72 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1629.14
+Average thread runtime (sec)          : 22.627
+Total work rate (points/sec)          : 4.52557e+07
+Average thread work rate (points/sec) : 628552
+Starting benchmark on 6 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2182.3
+Average thread runtime (sec)          : 30.3097
+Total work rate (points/sec)          : 3.37845e+07
+Average thread work rate (points/sec) : 469230
+Starting benchmark on 6 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1659.11
+Average thread runtime (sec)          : 23.0432
+Total work rate (points/sec)          : 4.44382e+07
+Average thread work rate (points/sec) : 617197
+Starting benchmark on 96 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1629.85
+Average thread runtime (sec)          : 16.9776
+Total work rate (points/sec)          : 6.03148e+07
+Average thread work rate (points/sec) : 628279
+Starting benchmark on 8 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2465.41
+Average thread runtime (sec)          : 25.6814
+Total work rate (points/sec)          : 3.98733e+07
+Average thread work rate (points/sec) : 415347
+Starting benchmark on 8 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1677.97
+Average thread runtime (sec)          : 17.4788
+Total work rate (points/sec)          : 5.85851e+07
+Average thread work rate (points/sec) : 610261
+Starting benchmark on 120 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1630.31
+Average thread runtime (sec)          : 13.5859
+Total work rate (points/sec)          : 7.53723e+07
+Average thread work rate (points/sec) : 628102
+Starting benchmark on 10 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2508.56
+Average thread runtime (sec)          : 20.9046
+Total work rate (points/sec)          : 4.89843e+07
+Average thread work rate (points/sec) : 408203
+Starting benchmark on 10 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1681.93
+Average thread runtime (sec)          : 14.0161
+Total work rate (points/sec)          : 7.30589e+07
+Average thread work rate (points/sec) : 608824
+Starting benchmark on 144 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1627.48
+Average thread runtime (sec)          : 11.302
+Total work rate (points/sec)          : 9.06037e+07
+Average thread work rate (points/sec) : 629193
+Starting benchmark on 12 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2076.47
+Average thread runtime (sec)          : 14.4199
+Total work rate (points/sec)          : 7.10129e+07
+Average thread work rate (points/sec) : 493145
+Starting benchmark on 12 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1674.89
+Average thread runtime (sec)          : 11.6312
+Total work rate (points/sec)          : 8.80394e+07
+Average thread work rate (points/sec) : 611385
+Starting benchmark on 168 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1629.03
+Average thread runtime (sec)          : 9.69659
+Total work rate (points/sec)          : 1.05604e+08
+Average thread work rate (points/sec) : 628596
+Starting benchmark on 14 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2088.4
+Average thread runtime (sec)          : 12.4309
+Total work rate (points/sec)          : 8.23752e+07
+Average thread work rate (points/sec) : 490328
+Starting benchmark on 14 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1680.88
+Average thread runtime (sec)          : 10.0052
+Total work rate (points/sec)          : 1.02347e+08
+Average thread work rate (points/sec) : 609206
+Starting benchmark on 192 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1629.34
+Average thread runtime (sec)          : 8.48613
+Total work rate (points/sec)          : 1.20668e+08
+Average thread work rate (points/sec) : 628477
+Starting benchmark on 16 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2635.73
+Average thread runtime (sec)          : 13.7278
+Total work rate (points/sec)          : 7.45933e+07
+Average thread work rate (points/sec) : 388507
+Starting benchmark on 16 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1695.77
+Average thread runtime (sec)          : 8.83213
+Total work rate (points/sec)          : 1.1594e+08
+Average thread work rate (points/sec) : 603856
+Starting benchmark on 216 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1627.92
+Average thread runtime (sec)          : 7.53665
+Total work rate (points/sec)          : 1.35869e+08
+Average thread work rate (points/sec) : 629025
+Starting benchmark on 18 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2137.7
+Average thread runtime (sec)          : 9.89675
+Total work rate (points/sec)          : 1.03468e+08
+Average thread work rate (points/sec) : 479020
+Starting benchmark on 18 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1692.54
+Average thread runtime (sec)          : 7.83584
+Total work rate (points/sec)          : 1.30682e+08
+Average thread work rate (points/sec) : 605007
+Starting benchmark on 240 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1638.22
+Average thread runtime (sec)          : 6.82591
+Total work rate (points/sec)          : 1.50017e+08
+Average thread work rate (points/sec) : 625069
+Starting benchmark on 20 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2689.81
+Average thread runtime (sec)          : 11.2075
+Total work rate (points/sec)          : 9.13671e+07
+Average thread work rate (points/sec) : 380696
+Starting benchmark on 20 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1709.15
+Average thread runtime (sec)          : 7.12144
+Total work rate (points/sec)          : 1.43791e+08
+Average thread work rate (points/sec) : 599130
+Starting benchmark on 264 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1627.25
+Average thread runtime (sec)          : 6.16381
+Total work rate (points/sec)          : 1.65502e+08
+Average thread work rate (points/sec) : 626901
+Starting benchmark on 22 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2213.28
+Average thread runtime (sec)          : 8.38364
+Total work rate (points/sec)          : 1.22143e+08
+Average thread work rate (points/sec) : 462662
+Starting benchmark on 22 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1706.16
+Average thread runtime (sec)          : 6.46272
+Total work rate (points/sec)          : 1.58447e+08
+Average thread work rate (points/sec) : 600179
+Starting benchmark on 288 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1630.7
+Average thread runtime (sec)          : 5.66216
+Total work rate (points/sec)          : 1.80222e+08
+Average thread work rate (points/sec) : 625771
+Starting benchmark on 24 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2108.75
+Average thread runtime (sec)          : 7.32204
+Total work rate (points/sec)          : 1.39852e+08
+Average thread work rate (points/sec) : 485596
+Starting benchmark on 24 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1707.26
+Average thread runtime (sec)          : 5.92797
+Total work rate (points/sec)          : 1.7274e+08
+Average thread work rate (points/sec) : 599793
+Starting benchmark on 312 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1633.31
+Average thread runtime (sec)          : 5.23497
+Total work rate (points/sec)          : 1.94981e+08
+Average thread work rate (points/sec) : 624939
+Starting benchmark on 26 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2189.46
+Average thread runtime (sec)          : 7.0175
+Total work rate (points/sec)          : 1.45921e+08
+Average thread work rate (points/sec) : 467696
+Starting benchmark on 26 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1717.96
+Average thread runtime (sec)          : 5.50628
+Total work rate (points/sec)          : 1.85969e+08
+Average thread work rate (points/sec) : 596056
+Starting benchmark on 336 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1634.66
+Average thread runtime (sec)          : 4.86505
+Total work rate (points/sec)          : 2.09855e+08
+Average thread work rate (points/sec) : 624568
+Starting benchmark on 28 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2252.88
+Average thread runtime (sec)          : 6.70501
+Total work rate (points/sec)          : 1.52722e+08
+Average thread work rate (points/sec) : 454529
+Starting benchmark on 28 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1729.66
+Average thread runtime (sec)          : 5.14779
+Total work rate (points/sec)          : 1.9892e+08
+Average thread work rate (points/sec) : 592025
+Starting benchmark on 360 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1636.5
+Average thread runtime (sec)          : 4.54584
+Total work rate (points/sec)          : 2.24635e+08
+Average thread work rate (points/sec) : 623986
+Starting benchmark on 30 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2230.77
+Average thread runtime (sec)          : 6.19657
+Total work rate (points/sec)          : 1.65253e+08
+Average thread work rate (points/sec) : 459035
+Starting benchmark on 30 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1729.63
+Average thread runtime (sec)          : 4.80454
+Total work rate (points/sec)          : 2.13132e+08
+Average thread work rate (points/sec) : 592033
+Starting benchmark on 384 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1639.52
+Average thread runtime (sec)          : 4.26958
+Total work rate (points/sec)          : 2.39212e+08
+Average thread work rate (points/sec) : 622948
+Starting benchmark on 32 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2859.76
+Average thread runtime (sec)          : 7.44729
+Total work rate (points/sec)          : 1.375e+08
+Average thread work rate (points/sec) : 358072
+Starting benchmark on 32 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1744.59
+Average thread runtime (sec)          : 4.54321
+Total work rate (points/sec)          : 2.25391e+08
+Average thread work rate (points/sec) : 586956
+Starting benchmark on 408 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1638.9
+Average thread runtime (sec)          : 4.01692
+Total work rate (points/sec)          : 2.54297e+08
+Average thread work rate (points/sec) : 623277
+Starting benchmark on 34 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2225.12
+Average thread runtime (sec)          : 5.45373
+Total work rate (points/sec)          : 1.87761e+08
+Average thread work rate (points/sec) : 460200
+Starting benchmark on 34 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1738.63
+Average thread runtime (sec)          : 4.26136
+Total work rate (points/sec)          : 2.40299e+08
+Average thread work rate (points/sec) : 588968
+Starting benchmark on 432 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1639.21
+Average thread runtime (sec)          : 3.79446
+Total work rate (points/sec)          : 2.69243e+08
+Average thread work rate (points/sec) : 623247
+Starting benchmark on 36 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2275.05
+Average thread runtime (sec)          : 5.26633
+Total work rate (points/sec)          : 1.94443e+08
+Average thread work rate (points/sec) : 450100
+Starting benchmark on 36 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1749.98
+Average thread runtime (sec)          : 4.05088
+Total work rate (points/sec)          : 2.52785e+08
+Average thread work rate (points/sec) : 585150
+Starting benchmark on 456 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1640.93
+Average thread runtime (sec)          : 3.59854
+Total work rate (points/sec)          : 2.83936e+08
+Average thread work rate (points/sec) : 622667
+Starting benchmark on 38 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2300.83
+Average thread runtime (sec)          : 5.04569
+Total work rate (points/sec)          : 2.02946e+08
+Average thread work rate (points/sec) : 445056
+Starting benchmark on 38 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1752.21
+Average thread runtime (sec)          : 3.84257
+Total work rate (points/sec)          : 2.66488e+08
+Average thread work rate (points/sec) : 584404
+Starting benchmark on 480 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1642.04
+Average thread runtime (sec)          : 3.42093
+Total work rate (points/sec)          : 2.98711e+08
+Average thread work rate (points/sec) : 622314
+Starting benchmark on 40 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2895.72
+Average thread runtime (sec)          : 6.03275
+Total work rate (points/sec)          : 1.6974e+08
+Average thread work rate (points/sec) : 353626
+Starting benchmark on 40 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1762.31
+Average thread runtime (sec)          : 3.67149
+Total work rate (points/sec)          : 2.78906e+08
+Average thread work rate (points/sec) : 581054
+Starting benchmark on 504 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1641
+Average thread runtime (sec)          : 3.25596
+Total work rate (points/sec)          : 3.13876e+08
+Average thread work rate (points/sec) : 622771
+Starting benchmark on 42 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2316.56
+Average thread runtime (sec)          : 4.59636
+Total work rate (points/sec)          : 2.22785e+08
+Average thread work rate (points/sec) : 442034
+Starting benchmark on 42 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1766.3
+Average thread runtime (sec)          : 3.50456
+Total work rate (points/sec)          : 2.9219e+08
+Average thread work rate (points/sec) : 579743
+Starting benchmark on 528 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1639.95
+Average thread runtime (sec)          : 3.10596
+Total work rate (points/sec)          : 3.27817e+08
+Average thread work rate (points/sec) : 620865
+Starting benchmark on 44 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2362.1
+Average thread runtime (sec)          : 4.47367
+Total work rate (points/sec)          : 2.28895e+08
+Average thread work rate (points/sec) : 433513
+Starting benchmark on 44 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1761.9
+Average thread runtime (sec)          : 3.33693
+Total work rate (points/sec)          : 3.06869e+08
+Average thread work rate (points/sec) : 581191
+Starting benchmark on 552 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1640.64
+Average thread runtime (sec)          : 2.97217
+Total work rate (points/sec)          : 3.42658e+08
+Average thread work rate (points/sec) : 620757
+Starting benchmark on 46 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2299.9
+Average thread runtime (sec)          : 4.16649
+Total work rate (points/sec)          : 2.45771e+08
+Average thread work rate (points/sec) : 445237
+Starting benchmark on 46 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1773.82
+Average thread runtime (sec)          : 3.21345
+Total work rate (points/sec)          : 3.18661e+08
+Average thread work rate (points/sec) : 577285
+Starting benchmark on 576 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1641.68
+Average thread runtime (sec)          : 2.85015
+Total work rate (points/sec)          : 3.5741e+08
+Average thread work rate (points/sec) : 620503
+Starting benchmark on 48 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2437.48
+Average thread runtime (sec)          : 4.23173
+Total work rate (points/sec)          : 2.41982e+08
+Average thread work rate (points/sec) : 420107
+Starting benchmark on 48 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1774.83
+Average thread runtime (sec)          : 3.08131
+Total work rate (points/sec)          : 3.32327e+08
+Average thread work rate (points/sec) : 576956
+Starting benchmark on 600 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1644.16
+Average thread runtime (sec)          : 2.74026
+Total work rate (points/sec)          : 3.7182e+08
+Average thread work rate (points/sec) : 619699
+Starting benchmark on 50 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 3024.91
+Average thread runtime (sec)          : 5.04152
+Total work rate (points/sec)          : 2.03113e+08
+Average thread work rate (points/sec) : 338522
+Starting benchmark on 50 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1785.58
+Average thread runtime (sec)          : 2.97596
+Total work rate (points/sec)          : 3.44091e+08
+Average thread work rate (points/sec) : 573485
+Starting benchmark on 624 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1641.33
+Average thread runtime (sec)          : 2.63033
+Total work rate (points/sec)          : 3.87435e+08
+Average thread work rate (points/sec) : 620889
+Starting benchmark on 52 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2405.75
+Average thread runtime (sec)          : 3.85536
+Total work rate (points/sec)          : 2.65604e+08
+Average thread work rate (points/sec) : 425648
+Starting benchmark on 52 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1787.22
+Average thread runtime (sec)          : 2.86413
+Total work rate (points/sec)          : 3.57525e+08
+Average thread work rate (points/sec) : 572957
+Starting benchmark on 648 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1642.14
+Average thread runtime (sec)          : 2.53417
+Total work rate (points/sec)          : 4.02209e+08
+Average thread work rate (points/sec) : 620692
+Starting benchmark on 54 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2442.04
+Average thread runtime (sec)          : 3.76859
+Total work rate (points/sec)          : 2.7172e+08
+Average thread work rate (points/sec) : 419321
+Starting benchmark on 54 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1794.56
+Average thread runtime (sec)          : 2.76939
+Total work rate (points/sec)          : 3.69757e+08
+Average thread work rate (points/sec) : 570613
+Starting benchmark on 672 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1642.7
+Average thread runtime (sec)          : 2.4445
+Total work rate (points/sec)          : 4.17032e+08
+Average thread work rate (points/sec) : 620583
+Starting benchmark on 56 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2476.97
+Average thread runtime (sec)          : 3.68596
+Total work rate (points/sec)          : 2.77811e+08
+Average thread work rate (points/sec) : 413409
+Starting benchmark on 56 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1798.34
+Average thread runtime (sec)          : 2.6761
+Total work rate (points/sec)          : 3.82646e+08
+Average thread work rate (points/sec) : 569414
+Starting benchmark on 696 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1641.58
+Average thread runtime (sec)          : 2.35859
+Total work rate (points/sec)          : 4.32289e+08
+Average thread work rate (points/sec) : 621105
+Starting benchmark on 58 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2432.93
+Average thread runtime (sec)          : 3.49559
+Total work rate (points/sec)          : 2.92941e+08
+Average thread work rate (points/sec) : 420892
+Starting benchmark on 58 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1798.94
+Average thread runtime (sec)          : 2.58469
+Total work rate (points/sec)          : 3.96179e+08
+Average thread work rate (points/sec) : 569223
+Starting benchmark on 720 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1643.88
+Average thread runtime (sec)          : 2.28317
+Total work rate (points/sec)          : 4.46633e+08
+Average thread work rate (points/sec) : 620323
+Starting benchmark on 60 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2542.11
+Average thread runtime (sec)          : 3.53071
+Total work rate (points/sec)          : 2.90027e+08
+Average thread work rate (points/sec) : 402815
+Starting benchmark on 60 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1810.52
+Average thread runtime (sec)          : 2.51461
+Total work rate (points/sec)          : 4.0722e+08
+Average thread work rate (points/sec) : 565584
+Starting benchmark on 744 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1645
+Average thread runtime (sec)          : 2.21102
+Total work rate (points/sec)          : 4.61269e+08
+Average thread work rate (points/sec) : 619985
+Starting benchmark on 62 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1876.25
+Average thread runtime (sec)          : 2.52184
+Total work rate (points/sec)          : 4.06054e+08
+Average thread work rate (points/sec) : 545771
+Starting benchmark on 62 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1747.62
+Average thread runtime (sec)          : 2.34896
+Total work rate (points/sec)          : 4.35938e+08
+Average thread work rate (points/sec) : 585938
+Starting benchmark on 768 PEs, 1 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1652.76
+Average thread runtime (sec)          : 2.15203
+Total work rate (points/sec)          : 4.73974e+08
+Average thread work rate (points/sec) : 617153
+Starting benchmark on 64 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 2392.97
+Average thread runtime (sec)          : 3.11585
+Total work rate (points/sec)          : 3.28642e+08
+Average thread work rate (points/sec) : 427919
+Starting benchmark on 64 PEs, 12 threads/PE, image size: 32000 x 32000
+40 points per job, with a maximum of 4096 iterations per point
+Total cumulative runtime (sec)        : 1767.1
+Average thread runtime (sec)          : 2.30092
+Total work rate (points/sec)          : 4.4504e+08
+Average thread work rate (points/sec) : 579479
