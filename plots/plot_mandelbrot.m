@@ -14,7 +14,7 @@ xlim([2 32]);
 xticks(2:2:32);
 xlabel('Number of Nodes', 'Interpreter', 'latex');
 ylabel('Aggregated Work Rate (points/s)', 'Interpreter', 'latex');
-legend('Single-context', 'Multi-context', 'Pure SHMEM', 'Location', 'SouthEast', 'Interpreter', 'latex');
+legend('Single-context', 'Multi-context', 'Single-threaded', 'Location', 'SouthEast', 'Interpreter', 'latex');
 legend boxoff;
 title('Mandelbrot Set Computation', 'Interpreter', 'latex');
 set(gcf, 'Position', [800, 600, 540, 450]);

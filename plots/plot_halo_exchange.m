@@ -14,7 +14,7 @@ xlim([2 32]);
 xticks(n);
 xlabel('Number of Nodes', 'Interpreter', 'latex');
 ylabel('Iteration Time (msec)', 'Interpreter', 'latex');
-legend('Single-context', 'Multi-context', 'Pure SHMEM', 'Location', 'SouthWest', 'Interpreter', 'latex');
+legend('Single-context', 'Multi-context', 'Single-threaded', 'Location', 'SouthWest', 'Interpreter', 'latex');
 legend boxoff;
 title('3D Halo Exchange', 'Interpreter', 'latex');
 set(gcf, 'Position', [800, 600, 540, 450]);

@@ -118,7 +118,7 @@ xlabel('Message Size (Bytes)', 'Interpreter', 'latex', 'fontsize', 12);
 ylabel('Process Message Rate (ops/s)', 'Interpreter', 'latex', 'fontsize', 12);
 legend('1 process/node', '4 processes/node', '8 processes/node', '12 processes/node', 'Location', 'SouthWest', 'Interpreter', 'latex', 'fontsize', 12);
 legend boxoff;
-title('Pure SHMEM putmem', 'Interpreter', 'latex', 'fontsize', 14);
+title('Single-threaded putmem', 'Interpreter', 'latex', 'fontsize', 14);
 
 subplot(2, 3, 4);
 % loglog(s, get_mr(1,:), '-^', s, get_mr(2,:), '-.s', s, get_mr(3,:), '--x', s, get_mr(4,:), ':d', s, get_mr(5,:), '-+', s, get_mr(6,:), '-.o', s, get_mr(7,:), ':*');
@@ -157,7 +157,7 @@ xlabel('Message Size (Bytes)', 'Interpreter', 'latex', 'fontsize', 12);
 ylabel('Process Message Rate (ops/s)', 'Interpreter', 'latex', 'fontsize', 12);
 legend('1 process/node', '4 processes/node', '8 processes/node', '12 processes/node', 'Location', 'SouthWest', 'Interpreter', 'latex', 'fontsize', 12);
 legend boxoff;
-title('Pure SHMEM getmem', 'Interpreter', 'latex', 'fontsize', 14);
+title('Single-threaded getmem', 'Interpreter', 'latex', 'fontsize', 14);
 set(gcf, 'Position', [400, 300, 1764, 880]);
 saveas(gcf, 'plot_putget', 'epsc');
 
@@ -183,7 +183,7 @@ xticks(t);
 title('4 Byte Atomic Post Message Rate', 'Interpreter', 'latex');
 xlabel('Number of Threads/Processes per Node', 'Interpreter', 'latex');
 ylabel('Thread/Process Message Rate (ops/s)', 'Interpreter', 'latex');
-legend('Single-context', 'Multi-context', 'Pure SHMEM', 'Interpreter', 'latex');
+legend('Single-context', 'Multi-context', 'Single-threaded', 'Interpreter', 'latex');
 legend boxoff;
 
 
@@ -205,7 +205,7 @@ xticks(t);
 title('4 Byte Atomic Fetch Message Rate', 'Interpreter', 'latex');
 xlabel('Number of Threads/Processes per Node', 'Interpreter', 'latex');
 ylabel('Thread/Process Message Rate (ops/s)', 'Interpreter', 'latex');
-legend('Single-context', 'Multi-context', 'Pure SHMEM', 'Interpreter', 'latex');
+legend('Single-context', 'Multi-context', 'Single-threaded', 'Interpreter', 'latex');
 legend boxoff;
 set(gcf, 'Position', [800, 600, 1080, 450]);
 saveas(gcf, 'plot_amo', 'epsc');
@@ -228,7 +228,7 @@ xticks(t);
 title('4 Byte Ping-Pong Latency (putmem)', 'Interpreter', 'latex');
 xlabel('Number of Threads/Processes per Node', 'Interpreter', 'latex');
 ylabel('Thread/Process Message Latency ($\mu$s)', 'Interpreter', 'latex');
-legend('Single-context', 'Multi-context', 'Pure SHMEM', 'Location', 'NorthWest', 'Interpreter', 'latex');
+legend('Single-context', 'Multi-context', 'Single-threaded', 'Location', 'NorthWest', 'Interpreter', 'latex');
 legend boxoff;
 
 
@@ -246,7 +246,7 @@ xticks(t);
 title('4 Byte Ping-Pong Latency (atomics)', 'Interpreter', 'latex');
 xlabel('Number of Threads/Processes per Node', 'Interpreter', 'latex');
 ylabel('Thread/Process Message Latency ($\mu$s)', 'Interpreter', 'latex');
-legend('Single-context', 'Multi-context', 'Pure SHMEM', 'Location', 'NorthWest', 'Interpreter', 'latex');
+legend('Single-context', 'Multi-context', 'Single-threaded', 'Location', 'NorthWest', 'Interpreter', 'latex');
 legend boxoff;
 set(gcf, 'Position', [800, 600, 1080, 450]);
 saveas(gcf, 'plot_pingpong', 'epsc');
